@@ -3,14 +3,13 @@
     "description": "Intentionally Vulnerable Framework",
     "keywords": [
         "Zeijaku",
-        "framework",
-        "vulnerable"
+        "framework"
     ],
-    "license": "MIT",
+    "license": "NA",
     "authors": [
         {
-            "name": "RisquEvan",
-            "role": "Developer"
+            "name": "RisquEvan" & "hachikohacks",
+            "role": "Developer" & "AppSec Student"
         }
     ],
     "require": {
